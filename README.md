@@ -14,8 +14,6 @@ This project is a clone of the Amazon homepage, built using only HTML and CSS. I
 <h4>Screenshots</h4>
 <img src="https://github.com/knoxiboy/Amazon_Clone/blob/main/pics/Screenshot%202025-04-16%20214129.png" alt="Screenshorts">
 <img src="https://github.com/knoxiboy/Amazon_Clone/blob/main/pics/Screenshot%202025-04-16%20214142.png" alt="Screenshorts">
-<img src="https://github.com/knoxiboy/Amazon_Clone/blob/main/pics/Screenshot%202025-04-16%20215604.png" alt="Screenshorts">
-<img src="https://github.com/knoxiboy/Amazon_Clone/blob/main/pics/Screenshot%202025-04-16%20215547.png" alt="Screenshorts">
 
 <h4>Project Structure</h4>
 
